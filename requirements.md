@@ -4,7 +4,7 @@
 
 **Version:** 1.0  
 **Date:** February 14, 2026  
-**Project Type:** Final Year Engineering Project  
+**Project Type:** Professional Healthcare Project  
 **Domain:** IoT, AI/ML, Healthcare Technology
 
 ---
@@ -422,8 +422,7 @@ The following enhancements are identified for post-project development:
 
 This requirements document serves as the foundation for the NightBreath Guardian system development. All stakeholders must review and approve this document before proceeding to design and implementation phases.
 
-**Prepared By:** [Student Name/Team]  
-**Academic Supervisor:** [Supervisor Name]  
+**Prepared By:** Team Hackaholics
 **Date:** February 14, 2026  
 **Version:** 1.0
 
