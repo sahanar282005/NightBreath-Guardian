@@ -4,7 +4,7 @@
 
 **Version:** 1.0  
 **Date:** February 14, 2026  
-**Project Type:** Final Year Engineering Project  
+**Project Type:** Professional Healthcare project 
 **Domain:** IoT, AI/ML, Healthcare Technology
 
 ---
@@ -796,8 +796,7 @@ def create_access_token(user_id: str, role: str) -> str:
 
 This design document provides the technical foundation for the NightBreath Guardian system implementation.
 
-**Prepared By:** [Student Name/Team]  
-**Academic Supervisor:** [Supervisor Name]  
+**Prepared By:** Team Hackaholics   
 **Date:** February 14, 2026  
 **Version:** 1.0
 
